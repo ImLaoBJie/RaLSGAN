@@ -17,7 +17,7 @@ If you want to use CIFAR-100 dataset, you can download `read_data_cifar100.py` a
 
 2. Unzip the dataset to the folder storing `RaLSGAN.py`.
 
-3. Open `RaLSGAN.py` and modify the parameter below£º
+3. Open `RaLSGAN.py` and modify the parameter below:
 
 ```
 batch_size = 32
@@ -28,7 +28,7 @@ epochs = 30
 nz = 256  # the dim of noise
 ```
 
-4. Run `RaLSGAN.py`
+4. Run `RaLSGAN.py`.
 
 # Result
 
@@ -37,8 +37,7 @@ nz = 256  # the dim of noise
 
 ### Generated images
 
-| epoch | 1 | 2 | 3 | 4 |
-| :----:  | :----:  | :----:  | :----:  |
-| 10 | ![5](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/5.png "5") | ![6](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/6.png "6") | ![7](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/7.png "7") | ![8](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/8.png "8") |
-| 1000 | ![1](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/1.png "1") | ![2](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/2.png "2") | ![3](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/3.png "3") | ![4](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/4.png "4")|
-
+* 10 epochs:
+![5](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/5.png "5") ![6](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/6.png "6") ![7](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/7.png "7") ![8](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/8.png "8")
+* 1000epochs:
+![1](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/1.png "1") ![2](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/2.png "2") ![3](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/3.png "3") ![4](https://raw.githubusercontent.com/ImLaoBJie/RaLSGAN/master/img/4.png "4")
