@@ -8,7 +8,7 @@ This is an implementation of a Relativistic Average GAN with Keras(TensorFlow).
 * [[ozanciga/gans-with-pytorch]](https://github.com/ozanciga/gans-with-pytorch)
 
 ### Loss function
-![loss function](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/lossfunction.png "loss function")
+![loss function](https://github.com/ImLaoBJie/RaLsGan/master/result/img/lossfunction.png "loss function")
 
 # Quick Start
 
@@ -33,9 +33,9 @@ nz = 256  # the dim of noise
 # Result
 
 ### Loss
-![loss](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/loss.png "loss")
+![loss](https://github.com/ImLaoBJie/RaLsGan/master/result/img/loss.png "loss")
 
 | epoch  | 1 | 2 | 3 | 4 |
 | ------------- | ------------- | ------------- | ------------- |
-| 10 | ![5](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/1.png "5") | ![6](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/1.png "6") | ![7](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/1.png "7") | ![8](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/1.png "8") |
-| 1000 | ![1](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/1.png "1") | ![2](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/1.png "2") | ![3](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/1.png "3") | ![4](https://raw.githubusercontent.com/ImLaoBJie/RaLsGan/master/result/img/1.png "4") |
+| 10 | ![5](https://github.com/ImLaoBJie/RaLsGan/master/result/img/1.png "5") | ![6](https://github.com/ImLaoBJie/RaLsGan/master/result/img/1.png "6") | ![7](https://github.com/ImLaoBJie/RaLsGan/master/result/img/1.png "7") | ![8](https://github.com/ImLaoBJie/RaLsGan/master/result/img/1.png "8") |
+| 1000 | ![1](https://github.com/ImLaoBJie/RaLsGan/master/result/img/1.png "1") | ![2](https://github.com/ImLaoBJie/RaLsGan/master/result/img/1.png "2") | ![3](https://github.com/ImLaoBJie/RaLsGan/master/result/img/1.png "3") | ![4](https://github.com/ImLaoBJie/RaLsGan/master/result/img/1.png "4") |
