@@ -15,13 +15,14 @@ This is an implementation of a Relativistic Average GAN with Keras(TensorFlow).
 1.Add a customized Adam optimizer using Weight Normalization.
 
 * [[paper]](https://arxiv.org/pdf/1704.03971.pdf)
+    
 * [[krasserm/weightnorm]](https://github.com/krasserm/weightnorm/tree/master/keras_2)
 
-2. Add Dropout layers.
+2.Add Dropout layers.
 
-3. Discriminator and generator are compiled before training.
+3.Discriminator and generator are compiled before training.
 
-4. Improve the methods of images pre-processing.
+4.Improve the methods of images pre-processing.
 
 ### Generated images
 
